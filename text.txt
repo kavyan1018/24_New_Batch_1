@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+--> Document type html
+
+<html lang="en">
+--> in html we use english lang.
+
+<head>
+    <meta charset="UTF-8">
+    What is utf ?
+    --> Encoding
+    What is the full form of utf ?
+    --> Unicode transformation fromate 
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    <title>Document</title>
+    --> in title we enter our website or webpage name 
+</head>
+
+<body>
+    --> what we want to print in our webpage that all our code we write in body part....
+</body>
+</html>
+
+
+What is website ?
+--> Multi collections of webpage 
+
+frontend tech | client side
+    --> HTML, CSS, JS.....
+
+Backend tech | server side 
+    --> C, CPP, JAVa, SQL....
+
+
+new file --> .html Extansion 
+
+
+Heasing tags
+there is total 6 heading tags 
+
+h1 --> Max
+h2 
+h3 
+h4 
+h5 
+h6 --> Min
+
+there is size difference between h1 to h6
+
+center tag
+--> what we want to print in center that all tags and etc.. we write in center tag
+
+bold ==> <b> and <strong>
+italic ==> <i> and <em>
+underline ==> <u> and inserted 
+delete ==> <del> and strikex
+high light ==> <mark>
