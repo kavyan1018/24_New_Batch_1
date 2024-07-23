@@ -57,3 +57,26 @@ italic ==> <i> and <em>
 underline ==> <u> and inserted 
 delete ==> <del> and strikex
 high light ==> <mark>
+
+
+How to insert images in oue webpage ?
+--> there is total 2 way to insert images
+
+Images insert total 2 Ways
+
+ <!-- 1st way to insert image  1
+        1st Way is insert image from google
+
+        what is src ?  ==> source
+        what is alt ? ==> altranet
+    -->
+
+ <!-- 
+        2nd way is insert image from download 
+     -->
+
+
+<br>  ==> To Break cont Line 
+
+&nbsp; ==> for space between text/image/and all about that
+
